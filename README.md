@@ -9,6 +9,7 @@ This is a simple ToDo List app created using HTML, CSS, and JavaScript. It allow
 - **Delete Task:** Remove tasks from the list by clicking the "Delete" button next to each task.
 
 -<b>Technologies Used</b>
+<br>
 HTML
 <br>
 CSS
